@@ -1,12 +1,10 @@
 
 <h1>Developer</h1>
 
-Online eğitimlerin verildiği bir yazılımdır.
+This is a software platform where online education is provided.
 
-<h2>Harici Teknolojiler </h2>
+<h2> This project has been developed using HTML and CSS. </h2>
 
-HTML ve CSS kullanılmıştır.
-
-<h2>Ekran</h2>
+<h2>Screen</h2>
 
 ![](developer.gif)
